@@ -33,7 +33,7 @@ Quantbot is a TypeScript-based trading bot designed to exploit arbitrage opportu
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/quantbot.git
+   git clone https://github.com/samrudh3125/quantbot.git
    ```
 
 2. **Build the Docker image:**
